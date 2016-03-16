@@ -1,0 +1,21 @@
+{
+  "name": "ericportfolio",
+  "homepage": "https://github.com/eetom/newportfolio",
+  "authors": [
+    "Eric Tsai <erictsaiphoto@gmail.com>"
+  ],
+  "description": "This is my portfolio site",
+  "main": "",
+  "moduleType": [],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^3.3.6"
+  }
+}
